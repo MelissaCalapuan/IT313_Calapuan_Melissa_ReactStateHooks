@@ -117,7 +117,7 @@ The buttons use `onPress` event handlers to perform actions such as:
 
 The event handlers are passed as function references instead of being called directly in the JSX.
 
-## How to Run the Project
+## How I Run the Project
 
 ### 1. Install the project dependencies
 
